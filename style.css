@@ -1,0 +1,16 @@
+body{
+    background-color: blueviolet;
+}
+h1{
+    color: blanchedalmond;
+}
+
+@media (min-width:640px) { 
+    body {
+        background-color: darkcyan;
+
+    }
+    h1 {
+        color: crimson;
+    }
+}
